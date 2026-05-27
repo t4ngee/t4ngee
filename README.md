@@ -22,5 +22,3 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=t4ngee&icon=9&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
