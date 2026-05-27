@@ -1,22 +1,15 @@
-# 💫 About Me
+## 💫 About Me
 
-name: Billie
-located_in: England
-current_job: Student
-education:
-  [
-    "Self-Taught Developer",
-    "Computer Science",
-    "BTEC Information Technology level 3"
-  ]
-
-fields_of_interests:
-  [
-    "Web Development",
-    "AI & Machine Learning",
-    "Cybersecurity",
-    "Open Source"
-  ]
+- 👋 Hi, I'm **Billie**
+- 📍 Based in **England**
+- 🎓 Studying **Computer Science** & **BTEC Information Technology Level 3**
+- 💻 Self-Taught Developer
+- 🚀 Interested in:
+  - Web Development
+  - AI & Machine Learning
+  - Cybersecurity
+  - Open Source
+    
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tannedwell) 
 
