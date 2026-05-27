@@ -1,4 +1,23 @@
+# 💫 About Me
 
+```yaml
+name: Billie
+located_in: England
+current_job: Student
+education:
+  [
+    "Self-Taught Developer",
+    "Computer Science",
+    "BTEC Information Technology level 3"
+  ]
+
+fields_of_interests:
+  [
+    "Web Development",
+    "AI & Machine Learning",
+    "Cybersecurity",
+    "Open Source"
+  ]
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tannedwell) 
 
