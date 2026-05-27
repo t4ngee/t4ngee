@@ -3,7 +3,6 @@
 - 👋 Hi, I'm **Billie**
 - 📍 Based in **England**
 - 🎓 Studying **Computer Science** & **BTEC Information Technology Level 3**
-- 💻 Self-Taught Developer
 - 🚀 Interested in:
   - Web Development
   - AI & Machine Learning
