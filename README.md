@@ -1,6 +1,5 @@
 # 💫 About Me
 
-```yaml
 name: Billie
 located_in: England
 current_job: Student
